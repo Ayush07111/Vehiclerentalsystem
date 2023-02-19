@@ -1,0 +1,7 @@
+                                        ||| SPECIFICATIONS             |||
+                                        ||| MODEL NAME : FORD ECOSPORT |||
+                                        ||| ENGINE : 999cc-1499cc      |||
+                                        ||| BHP : 98.59-123.24 Bhp     |||
+                                        ||| SEATING CAPACITY : 5       |||
+                                        ||| MILEAGE : 23.00 KMPL       |||
+                                        ||| CONDITION : EXCELLENT      |||
